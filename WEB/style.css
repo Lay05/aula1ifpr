@@ -1,0 +1,27 @@
+/*FORMATAÇAO DE TAG*/
+body{
+    background-color: black;
+    color: white
+}
+
+/*FORMATACAO DE ID*/
+#titulo_principal{
+    font-size: 100px;
+    color: blueviolet;
+    text-decoration: dashed;
+    font-weight: bolder;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.texto{
+
+    font-size: 50px;
+    color:yellow;
+    text-align: center;
+}
+
+.caixa{
+    border: 2px solid greenyellow;
+
+}
